@@ -5,8 +5,8 @@ create_package("")
 
 # uma vez na vida
 usethis::use_git_config(
-  user.name = "alexhcrip",
-  user.email = "alexhcrip@gmail.com"
+  user.name = "usuário",
+  user.email = "email"
 )
 
 
